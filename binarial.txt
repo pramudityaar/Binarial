@@ -1,9 +1,24 @@
+
 AND
 0|0|0
 0|1|0
 1|0|0
 1|1|1
-
-
-
 this is AND Gate.
+
+OR
+0|0|0
+0|1|1
+1|0|1
+1|1|1
+this is OR Gate
+
+XOR
+0|0|0
+0|1|1
+1|0|1
+1|1|0
+this is XOR Gate
+
+
+
