@@ -8,6 +8,7 @@ this is AND Gate.
 OR
 0|0|0
 0|1|1
+1|0|1
 this is OR Gate
 
 
