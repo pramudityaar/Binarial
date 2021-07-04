@@ -1,0 +1,6 @@
+AND
+0|0|0
+
+
+
+this is AND Gate.
